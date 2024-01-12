@@ -3,7 +3,6 @@
 tests/snapshots/output
 
 # Editors
-.vscode/
 .idea/
 
 # Vagrant
